@@ -1,0 +1,83 @@
+body {
+    background-image: url('pictures/wallpaperflare.com_wallpaper.jpg');
+    background-position: center top;
+    background-size: cover;
+    text-align: center;
+}
+
+
+.contact-info {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    background-color: #ffffff;
+    padding: 20px;
+    height: 200px;
+    width: 50%;
+}
+
+.content {
+    background-color: transparent;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto; 
+    max-width: 60%;
+    margin-top: 150;
+}
+
+
+
+item {
+    color: white;
+    font-style: italic;
+    font-size: x-large;
+    
+}
+
+.contact-us {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 150;
+
+    
+}
+
+.second {
+    text-align: center;
+    padding: 16;
+    color: white;
+    font-size: 20;
+}
+
+
+p {
+    font-size: large;
+    font-weight: 400;
+    color: black;
+}
+
+.footer {
+    background-color: grey;
+    padding: 18px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 98%; 
+}
+
+.footer-text {
+    text-align: center;
+    color: white;
+}
+
+a {
+    color: black;
+    font-style: normal;
+    font-weight: 550;
+}
+
+h1 {
+    font-size: 50;
+    color: orange;
+    font-family:cursive
+}
